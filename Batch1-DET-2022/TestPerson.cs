@@ -18,7 +18,7 @@ namespace Batch1_DET_2022
             {
                 try
                 {
-                    Person t = new Person("Sujith", "Reddy", "sujithreddy@gmail.com", new DateOnly(2000, 03, 04));
+                    Person t = new Person("Sujith", "Reddy", "mr.c.sujithreddy@gmail.com", new DateOnly(2000, 03, 07));
                     int byear = t.BirthYear();
                     if (byear < 1900 || byear > 2022)
                     {
