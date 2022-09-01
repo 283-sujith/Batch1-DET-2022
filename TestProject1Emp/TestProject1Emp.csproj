@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
 
     <IsPackable>false</IsPackable>
+
+    <StartupObject>TestProject1Emp.Linq</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
